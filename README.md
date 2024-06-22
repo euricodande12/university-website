@@ -2,7 +2,8 @@
 
 Welcome to the **University Website** project! This website was developed using HTML, CSS, a small amount of JavaScript, and Font Awesome icons in 2023. It showcases a clean, responsive, and user-friendly interface, suitable for any educational institution.
 
-![University Website Screenshot](./assets/screenshot.png)
+![University Website Screenshot 1](img/screenshot-1.png)
+![University Website Screenshot 2](img/screenshot-2.png)
 
 ## Overview
 
